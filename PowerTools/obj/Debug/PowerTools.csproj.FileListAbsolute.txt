@@ -1,9 +1,0 @@
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\bin\Debug\PowerTools.exe.config
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\bin\Debug\PowerTools.exe
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\bin\Debug\PowerTools.pdb
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\obj\Debug\PowerTools.PowerTools.resources
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\obj\Debug\PowerTools.Properties.Resources.resources
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\obj\Debug\PowerTools.csproj.GenerateResource.Cache
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\obj\Debug\PowerTools.exe
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\obj\Debug\PowerTools.pdb
-c:\users\simon\documents\visual studio 2012\Projects\PowerTools\PowerTools\obj\Debug\PowerTools.csprojResolveAssemblyReference.cache
